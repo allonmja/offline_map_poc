@@ -6,6 +6,8 @@
     versionCode = "1"
     >
     
+    <access>http://www.mapbox.com</access>
+    
     <preference name="phonegap-version" value="2.3.0" />
     <preference name="orientation" value="portrait" />
 
